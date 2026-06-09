@@ -1,0 +1,201 @@
+job_id,job_title,company,location,skills_required,experience_years,salary
+1,Data Analyst,TCS,Hyderabad,Python SQL Excel,1,400000
+2,Data Scientist,Infosys,Bangalore,Python Machine Learning SQL,3,900000
+3,Software Engineer,Wipro,Chennai,Java C++ SQL,2,600000
+4,Machine Learning Engineer,Amazon,Hyderabad,Python Deep Learning ML,4,1200000
+5,Backend Developer,Google,Bangalore,Python Java SQL,3,1100000
+6,Frontend Developer,Microsoft,Pune,JavaScript HTML CSS,2,700000
+7,AI Engineer,Accenture,Hyderabad,Python NLP Deep Learning,5,1500000
+8,Business Analyst,Capgemini,Mumbai,Excel SQL Power BI,2,650000
+9,Python Developer,TCS,Chennai,Python Django SQL,1,500000
+10,SQL Developer,Infosys,Pune,SQL Database ETL,2,550000
+11,Data Analyst,Wipro,Delhi,Excel SQL Tableau,1,450000
+12,Data Scientist,Amazon,Bangalore,Python ML DL SQL,4,1300000
+13,Software Engineer,Google,Hyderabad,Java Spring Boot SQL,3,1000000
+14,Machine Learning Engineer,Microsoft,Chennai,Python ML AI,3,1150000
+15,Backend Developer,Accenture,Pune,Java Python SQL,2,800000
+16,Frontend Developer,Capgemini,Hyderabad,JavaScript React CSS,2,750000
+17,AI Engineer,TCS,Bangalore,Python Deep Learning NLP,4,1400000
+18,Business Analyst,Infosys,Mumbai,Excel Power BI SQL,3,700000
+19,Python Developer,Wipro,Chennai,Python Flask SQL,1,520000
+20,SQL Developer,Amazon,Hyderabad,SQL ETL Data Warehousing,3,900000
+21,Data Analyst,Google,Bangalore,Excel SQL Python,2,650000
+22,Data Scientist,Microsoft,Pune,Python ML AI SQL,5,1500000
+23,Software Engineer,Accenture,Chennai,Java C++ OOP,2,600000
+24,Machine Learning Engineer,Capgemini,Hyderabad,Python ML DL NLP,4,1200000
+25,Backend Developer,TCS,Bangalore,Python Django SQL,2,700000
+26,Frontend Developer,Infosys,Chennai,HTML CSS JavaScript,1,450000
+27,AI Engineer,Wipro,Pune,Python Deep Learning AI,5,1600000
+28,Business Analyst,Amazon,Mumbai,Excel Tableau SQL,3,800000
+29,Python Developer,Google,Hyderabad,Python Flask API,2,750000
+30,SQL Developer,Microsoft,Bangalore,SQL ETL Power BI,3,950000
+31,Data Analyst,TCS,Pune,Excel SQL Python,2,600000
+32,Data Scientist,Infosys,Hyderabad,Python ML DL,4,1250000
+33,Software Engineer,Wipro,Bangalore,Java Spring SQL,3,850000
+34,Machine Learning Engineer,Amazon,Chennai,Python ML NLP,4,1200000
+35,Backend Developer,Google,Hyderabad,Python Django API,3,950000
+36,Frontend Developer,Microsoft,Bangalore,React JS CSS,2,800000
+37,AI Engineer,Accenture,Pune,Python AI DL NLP,5,1550000
+38,Business Analyst,Capgemini,Chennai,Excel SQL BI,2,700000
+39,Python Developer,TCS,Hyderabad,Python Flask SQL,1,480000
+40,SQL Developer,Infosys,Bangalore,SQL ETL DW,3,920000
+41,Data Analyst,Wipro,Pune,Excel Tableau SQL,2,610000
+42,Data Scientist,Amazon,Hyderabad,Python ML AI,4,1350000
+43,Software Engineer,Google,Chennai,Java OOP SQL,2,750000
+44,Machine Learning Engineer,Microsoft,Bangalore,Python ML DL,3,1150000
+45,Backend Developer,Accenture,Hyderabad,Java Python API,2,820000
+46,Frontend Developer,Capgemini,Pune,HTML CSS JS,1,500000
+47,AI Engineer,TCS,Chennai,Python DL NLP,5,1500000
+48,Business Analyst,Infosys,Hyderabad,Excel BI SQL,3,720000
+49,Python Developer,Wipro,Bangalore,Python Django API,2,700000
+50,SQL Developer,Amazon,Chennai,SQL ETL BI,3,910000
+51,Data Analyst,Google,Pune,Excel SQL Python,2,640000
+52,Data Scientist,Microsoft,Hyderabad,Python ML AI,4,1400000
+53,Software Engineer,Accenture,Bangalore,Java Spring Boot,3,900000
+54,Machine Learning Engineer,Capgemini,Chennai,Python ML NLP DL,4,1250000
+55,Backend Developer,TCS,Hyderabad,Python Django SQL,2,720000
+56,Frontend Developer,Infosys,Bangalore,React JS CSS HTML,2,780000
+57,AI Engineer,Wipro,Pune,Python AI NLP DL,5,1600000
+58,Business Analyst,Amazon,Chennai,Excel SQL BI,3,820000
+59,Python Developer,Google,Hyderabad,Python Flask API,2,760000
+60,SQL Developer,Microsoft,Bangalore,SQL ETL Power BI,3,960000
+61,Data Analyst,TCS,Chennai,Excel SQL Python,1,500000
+62,Data Scientist,Infosys,Pune,Python ML DL AI,4,1300000
+63,Software Engineer,Wipro,Hyderabad,Java OOP SQL,2,700000
+64,Machine Learning Engineer,Amazon,Bangalore,Python ML NLP,4,1350000
+65,Backend Developer,Google,Chennai,Python API SQL,3,900000
+66,Frontend Developer,Microsoft,Hyderabad,HTML CSS JS React,2,820000
+67,AI Engineer,Accenture,Bangalore,Python DL NLP AI,5,1550000
+68,Business Analyst,Capgemini,Pune,Excel BI SQL,2,710000
+69,Python Developer,TCS,Hyderabad,Python Django SQL,1,520000
+70,SQL Developer,Infosys,Chennai,SQL ETL DW,3,930000
+71,Data Analyst,Google,Bangalore,Python SQL Excel,2,650000
+72,Data Scientist,Microsoft,Hyderabad,Python ML AI SQL,4,1400000
+73,Software Engineer,Accenture,Pune,Java Spring Boot SQL,3,900000
+74,Machine Learning Engineer,Capgemini,Chennai,Python ML NLP DL,4,1250000
+75,Backend Developer,TCS,Hyderabad,Python Django API,2,720000
+76,Frontend Developer,Infosys,Bangalore,React JS CSS HTML,2,780000
+77,AI Engineer,Wipro,Pune,Python AI NLP DL,5,1600000
+78,Business Analyst,Amazon,Chennai,Excel SQL BI,3,820000
+79,Python Developer,Google,Hyderabad,Python Flask API,2,760000
+80,SQL Developer,Microsoft,Bangalore,SQL ETL Power BI,3,960000
+81,Data Analyst,TCS,Chennai,Excel SQL Python,1,500000
+82,Data Scientist,Infosys,Pune,Python ML DL AI,4,1300000
+83,Software Engineer,Wipro,Hyderabad,Java OOP SQL,2,700000
+84,Machine Learning Engineer,Amazon,Bangalore,Python ML NLP,4,1350000
+85,Backend Developer,Google,Chennai,Python API SQL,3,900000
+86,Frontend Developer,Microsoft,Hyderabad,HTML CSS JS React,2,820000
+87,AI Engineer,Accenture,Bangalore,Python DL NLP AI,5,1550000
+88,Business Analyst,Capgemini,Pune,Excel BI SQL,2,710000
+89,Python Developer,TCS,Hyderabad,Python Django SQL,1,520000
+90,SQL Developer,Infosys,Chennai,SQL ETL DW,3,930000
+91,Data Analyst,Wipro,Bangalore,Excel SQL Tableau,2,620000
+92,Data Scientist,Amazon,Hyderabad,Python ML AI,4,1350000
+93,Software Engineer,Google,Pune,Java Spring Boot,3,950000
+94,Machine Learning Engineer,Microsoft,Chennai,Python ML DL,3,1200000
+95,Backend Developer,Accenture,Bangalore,Java Python API,2,850000
+96,Frontend Developer,Capgemini,Hyderabad,HTML CSS JS,1,520000
+97,AI Engineer,TCS,Pune,Python DL NLP,5,1500000
+98,Business Analyst,Infosys,Chennai,Excel BI SQL,3,720000
+99,Python Developer,Wipro,Hyderabad,Python Django API,2,710000
+100,SQL Developer,Amazon,Bangalore,SQL ETL BI,3,940000
+101,Data Analyst,Google,Chennai,Excel SQL Python,2,630000
+102,Data Scientist,Microsoft,Bangalore,Python ML AI,4,1400000
+103,Software Engineer,Accenture,Hyderabad,Java OOP SQL,2,720000
+104,Machine Learning Engineer,Capgemini,Pune,Python ML NLP DL,4,1250000
+105,Backend Developer,TCS,Chennai,Python Django SQL,2,700000
+106,Frontend Developer,Infosys,Hyderabad,React JS CSS HTML,2,780000
+107,AI Engineer,Wipro,Bangalore,Python AI NLP DL,5,1600000
+108,Business Analyst,Amazon,Pune,Excel SQL BI,3,800000
+109,Python Developer,Google,Chennai,Python Flask API,2,760000
+110,SQL Developer,Microsoft,Hyderabad,SQL ETL Power BI,3,960000
+111,Data Analyst,TCS,Bangalore,Excel SQL Python,1,520000
+112,Data Scientist,Infosys,Chennai,Python ML DL AI,4,1300000
+113,Software Engineer,Wipro,Pune,Java OOP SQL,2,710000
+114,Machine Learning Engineer,Amazon,Hyderabad,Python ML NLP,4,1350000
+115,Backend Developer,Google,Bangalore,Python API SQL,3,920000
+116,Frontend Developer,Microsoft,Chennai,HTML CSS JS React,2,800000
+117,AI Engineer,Accenture,Hyderabad,Python DL NLP AI,5,1550000
+118,Business Analyst,Capgemini,Bangalore,Excel BI SQL,2,720000
+119,Python Developer,TCS,Pune,Python Django SQL,1,500000
+120,SQL Developer,Infosys,Hyderabad,SQL ETL DW,3,930000
+121,Data Analyst,Wipro,Chennai,Excel SQL Tableau,2,620000
+122,Data Scientist,Amazon,Bangalore,Python ML AI,4,1350000
+123,Software Engineer,Google,Hyderabad,Java Spring Boot,3,950000
+124,Machine Learning Engineer,Microsoft,Pune,Python ML DL,3,1200000
+125,Backend Developer,Accenture,Chennai,Java Python API,2,850000
+126,Frontend Developer,Capgemini,Bangalore,HTML CSS JS,1,520000
+127,AI Engineer,TCS,Hyderabad,Python DL NLP,5,1500000
+128,Business Analyst,Infosys,Pune,Excel BI SQL,3,720000
+129,Python Developer,Wipro,Chennai,Python Django API,2,710000
+130,SQL Developer,Amazon,Hyderabad,SQL ETL BI,3,940000
+131,Data Analyst,Google,Bangalore,Excel SQL Python,2,640000
+132,Data Scientist,Microsoft,Chennai,Python ML AI,4,1400000
+133,Software Engineer,Accenture,Hyderabad,Java OOP SQL,2,720000
+134,Machine Learning Engineer,Capgemini,Bangalore,Python ML NLP DL,4,1250000
+135,Backend Developer,TCS,Pune,Python Django SQL,2,700000
+136,Frontend Developer,Infosys,Hyderabad,React JS CSS HTML,2,780000
+137,AI Engineer,Wipro,Chennai,Python AI NLP DL,5,1600000
+138,Business Analyst,Amazon,Bangalore,Excel SQL BI,3,800000
+139,Python Developer,Google,Pune,Python Flask API,2,760000
+140,SQL Developer,Microsoft,Hyderabad,SQL ETL Power BI,3,960000
+141,Data Analyst,TCS,Chennai,Excel SQL Python,1,520000
+142,Data Scientist,Infosys,Bangalore,Python ML DL AI,4,1300000
+143,Software Engineer,Wipro,Hyderabad,Java OOP SQL,2,710000
+144,Machine Learning Engineer,Amazon,Pune,Python ML NLP,4,1350000
+145,Backend Developer,Google,Chennai,Python API SQL,3,920000
+146,Frontend Developer,Microsoft,Bangalore,HTML CSS JS React,2,800000
+147,AI Engineer,Accenture,Hyderabad,Python DL NLP AI,5,1550000
+148,Business Analyst,Capgemini,Chennai,Excel BI SQL,2,720000
+149,Python Developer,TCS,Bangalore,Python Django SQL,1,500000
+150,SQL Developer,Infosys,Pune,SQL ETL DW,3,930000
+151,Data Analyst,Wipro,Hyderabad,Excel SQL Tableau,2,620000
+152,Data Scientist,Amazon,Chennai,Python ML AI,4,1350000
+153,Software Engineer,Google,Bangalore,Java Spring Boot,3,950000
+154,Machine Learning Engineer,Microsoft,Hyderabad,Python ML DL,3,1200000
+155,Backend Developer,Accenture,Pune,Java Python API,2,850000
+156,Frontend Developer,Capgemini,Chennai,HTML CSS JS,1,520000
+157,AI Engineer,TCS,Bangalore,Python DL NLP,5,1500000
+158,Business Analyst,Infosys,Hyderabad,Excel BI SQL,3,720000
+159,Python Developer,Wipro,Pune,Python Django API,2,710000
+160,SQL Developer,Amazon,Chennai,SQL ETL BI,3,940000
+161,Data Analyst,Google,Hyderabad,Excel SQL Python,2,640000
+162,Data Scientist,Microsoft,Pune,Python ML AI,4,1400000
+163,Software Engineer,Accenture,Chennai,Java OOP SQL,2,720000
+164,Machine Learning Engineer,Capgemini,Hyderabad,Python ML NLP DL,4,1250000
+165,Backend Developer,TCS,Bangalore,Python Django SQL,2,700000
+166,Frontend Developer,Infosys,Chennai,React JS CSS HTML,2,780000
+167,AI Engineer,Wipro,Hyderabad,Python AI NLP DL,5,1600000
+168,Business Analyst,Amazon,Bangalore,Excel SQL BI,3,800000
+169,Python Developer,Google,Chennai,Python Flask API,2,760000
+170,SQL Developer,Microsoft,Pune,SQL ETL Power BI,3,960000
+171,Data Analyst,TCS,Hyderabad,Excel SQL Python,1,520000
+172,Data Scientist,Infosys,Bangalore,Python ML DL AI,4,1300000
+173,Software Engineer,Wipro,Chennai,Java OOP SQL,2,710000
+174,Machine Learning Engineer,Amazon,Hyderabad,Python ML NLP,4,1350000
+175,Backend Developer,Google,Bangalore,Python API SQL,3,920000
+176,Frontend Developer,Microsoft,Chennai,HTML CSS JS React,2,800000
+177,AI Engineer,Accenture,Hyderabad,Python DL NLP AI,5,1550000
+178,Business Analyst,Capgemini,Bangalore,Excel BI SQL,2,720000
+179,Python Developer,TCS,Pune,Python Django SQL,1,500000
+180,SQL Developer,Infosys,Hyderabad,SQL ETL DW,3,930000
+181,Data Analyst,Wipro,Chennai,Excel SQL Tableau,2,620000
+182,Data Scientist,Amazon,Bangalore,Python ML AI,4,1350000
+183,Software Engineer,Google,Hyderabad,Java Spring Boot,3,950000
+184,Machine Learning Engineer,Microsoft,Pune,Python ML DL,3,1200000
+185,Backend Developer,Accenture,Chennai,Java Python API,2,850000
+186,Frontend Developer,Capgemini,Bangalore,HTML CSS JS,1,520000
+187,AI Engineer,TCS,Hyderabad,Python DL NLP,5,1500000
+188,Business Analyst,Infosys,Pune,Excel BI SQL,3,720000
+189,Python Developer,Wipro,Chennai,Python Django API,2,710000
+190,SQL Developer,Amazon,Hyderabad,SQL ETL BI,3,940000
+191,Data Analyst,Google,Bangalore,Excel SQL Python,2,640000
+192,Data Scientist,Microsoft,Chennai,Python ML AI,4,1400000
+193,Software Engineer,Accenture,Hyderabad,Java OOP SQL,2,720000
+194,Machine Learning Engineer,Capgemini,Bangalore,Python ML NLP DL,4,1250000
+195,Backend Developer,TCS,Pune,Python Django SQL,2,700000
+196,Frontend Developer,Infosys,Hyderabad,React JS CSS HTML,2,780000
+197,AI Engineer,Wipro,Chennai,Python AI NLP DL,5,1600000
+198,Business Analyst,Amazon,Bangalore,Excel SQL BI,3,800000
+199,Python Developer,Google,Pune,Python Flask API,2,760000
+200,SQL Developer,Microsoft,Hyderabad,SQL ETL Power BI,3,960000
